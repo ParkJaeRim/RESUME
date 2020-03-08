@@ -8,10 +8,10 @@
 [한국어](./README.md) 
 
 ## 소개
-![프로필이미지](https://github.com/ParkJaeRim/RESUME/raw/master/images/profile.jpeg)
+![프로필이미지](https://avatars3.githubusercontent.com/u/29462979?s=460&v=4)
 - 이름: 박재림
 
-- 취미: :airplane: , :coffee:, :soccer:, :video_game:
+- 취미: :airplane: (여행)  :coffee: (커피) :soccer: (축구 보기) :video_game: (게임)
 - Email: dbahck200@gmail.com
 - GitHub: [github.com/ParkJaeRim](https://github.com/ParkJaeRim)
 
