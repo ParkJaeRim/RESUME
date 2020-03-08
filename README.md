@@ -8,7 +8,6 @@
 [한국어](./README.md) 
 
 ## 소개
-![프로필이미지](https://avatars3.githubusercontent.com/u/29462979?s=460&v=4)
 - 이름: 박재림
 
 - 취미: :airplane: (여행)  :coffee: (커피) :soccer: (축구 보기) :video_game: (게임)
@@ -16,7 +15,7 @@
 - GitHub: [github.com/ParkJaeRim](https://github.com/ParkJaeRim)
 
 ```
-아직은 햇병아리 코더입니다.
+아직은 햇병아리 코더입니다. 열심히 '잘' 하려고 합니다.
 ```
 
 ## 단체경력
